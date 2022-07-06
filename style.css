@@ -219,3 +219,83 @@ body {
 .news-headline2 {
     margin-left: 40px;
 }
+
+.update {
+    text-align: center;
+}
+
+.update h1 {
+    font-size: 50px;
+}
+
+.update p {
+    color: #2d3436;
+}
+
+.in-update {
+    text-align: center;
+    background-color: antiquewhite;
+    width: 70%;
+    height: 200px;
+    margin-left: 240px;
+    border-radius: 10px;
+    display: flex;
+
+}
+
+.update-form {
+    margin-top: 40px;
+    padding: 10px 80px 5px 0;
+    border-radius: 5px;
+    font-size: 17px;
+
+}
+
+.in-update a {
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 20px;
+    margin-top: 10px;
+    color: white;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-left: 0px;
+
+}
+
+#input-form {
+    margin-top: 10px;
+}
+
+.form1 {
+    margin-top: 75px;
+    margin-left: 200px;
+}
+
+.form-btn {
+    margin-top: 95px;
+    margin-left: -2px;
+}
+
+#donate-form {
+    margin-bottom: 100px;
+}
+
+#footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+#footer h1 {
+    padding: 40px 0 0 0;
+    color: rgb(253, 36, 65);
+    font-size: 40px;
+    font-style: italic;
+}
+
+#footer h5 {
+    padding: 0 0 40px 0;
+    font-weight: 200;
+}
