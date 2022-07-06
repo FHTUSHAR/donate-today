@@ -97,6 +97,9 @@ body {
     font-size: 20px;
     text-align: center;
     margin-top: 20px;
+    border-right-style: none;
+    border-left-style: none;
+    border-top-style: none;
 
 }
 
@@ -248,6 +251,7 @@ body {
     padding: 10px 80px 5px 0;
     border-radius: 5px;
     font-size: 17px;
+
 
 }
 
